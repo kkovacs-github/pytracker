@@ -65,7 +65,7 @@ while True:
 		key = input("\nAPI Key:\n")
 
 		if key == "200":
-			key = '1ebf4297f30e4d15833f01a8a6eaa449'
+			key = ''
 
 		elif key != "200":
 			key = key
